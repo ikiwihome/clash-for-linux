@@ -38,7 +38,7 @@ $ cd clash-for-linux
 - 运行启动脚本
 
 ```bash
-$ sh start.sh
+$ /bin/bash start.sh
 
 正在检测订阅地址...
 Clash订阅地址可访问！                                      [  OK  ]
@@ -107,7 +107,7 @@ $ cd clash-for-linux
 - 关闭服务
 
 ```bash
-$ sh shutdown.sh
+$ /bin/bash shutdown.sh
 
 服务关闭成功，请执行以下命令关闭系统代理：proxy_off
 

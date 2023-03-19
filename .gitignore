@@ -1,9 +1,9 @@
-conf/config.yaml
-logs/clash.log
-temp/clash.yaml
-temp/config.yaml
-temp/proxy.txt
+/conf/config.yaml
+/logs/clash.log
+/temp/clash.yaml
+/temp/config.yaml
+/temp/proxy.txt
 .env
-conf/config.yaml
-logs/clash.log
-temp/clash.yaml
+/conf/config.yaml
+/logs/clash.log
+/temp/clash.yaml
